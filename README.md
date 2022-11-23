@@ -1,5 +1,7 @@
-# agencia-app Project
+# projeto: agencia-app 
 
+Tecnologias envolvidas:
+- Java
 - Quarkus Framework
 - JAX-RS
 - Panache ORM
