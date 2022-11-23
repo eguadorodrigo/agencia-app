@@ -1,0 +1,15 @@
+GET http://localhost:8080/reserva HTTP/1.1
+
+###
+
+POST http://localhost:8080/reserva/newReserva HTTP/1.1
+Content-Type: application/json
+
+{
+    "reserva":{
+        "cliente":{
+                "nome": "Rodrigo"
+            }
+    }
+    
+}

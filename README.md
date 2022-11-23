@@ -1,2 +1,6 @@
-# agencia-app
-Aplicação da Master Class
+# agencia-app Project
+
+- Quarkus Framework
+- JAX-RS
+- Panache ORM
+- Database H2
